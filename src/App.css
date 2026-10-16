@@ -1469,16 +1469,19 @@ a {
   text-align: center;
 }
 
-/* 手机屏幕：照片移到标题上方，避免文字重叠 */
+/* 手机屏幕：大幅肖像参与页面排版，与标题自然错开 */
 @media (max-width: 650px) {
   .hero-content {
-    padding: 150px 7% 100px;
+    padding: 36px 7% 100px;
   }
 
   .portrait-glitch {
-    top: 25px;
-    right: 7%;
-    width: 78px;
+    position: relative;
+    top: auto;
+    right: auto;
+    width: clamp(140px, 42vw, 180px);
+    flex-shrink: 0;
+    margin: 0 auto 28px;
     transform: none;
   }
 
