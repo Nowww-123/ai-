@@ -309,7 +309,7 @@ export const VIBE_CODING: Work[] = [
     roles: ['流程沉淀', 'Vibecoding', '需求分析'],
     tools: ['Codex', 'AI Product', 'Workflow'],
     gallery: [],
-    file: { href: 'https://dulicharen.cn/huiyouweb/demos/ai-music-video-workflow.html', type: 'PROTOTYPE' },
+    file: { href: '/demos/ai-music-video-workflow.html', type: 'PROTOTYPE' },
   },
   {
     slug: 'huiyou-notes',
