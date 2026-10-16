@@ -12,7 +12,9 @@
   --bg: #090909;
   --panel: #11110f;
   --text: #f4f3ef;
-  --muted: #92928d;
+  --text-h: #f4f3ef;
+  color-scheme: dark;
+  --muted: #b6b5af;
   --line: rgba(255, 255, 255, 0.14);
   --green: #b7c8ad;
 }
@@ -169,7 +171,7 @@ a {
 }
 
 .plus {
-  color: #85857f;
+  color: #aaa9a3;
   font-weight: 400;
 }
 
@@ -320,7 +322,7 @@ a {
 
 .item-category {
   margin: 0 0 12px;
-  color: #989891;
+  color: #b6b5af;
   font-size: 9px;
   letter-spacing: 0.16em;
   line-height: 1.8;
@@ -409,7 +411,7 @@ a {
 .section-rail > p:last-child {
   max-width: 360px;
   margin: 0;
-  color: #8f8f88;
+  color: #b6b5af;
   font-size: 13px;
   line-height: 1.85;
 }
@@ -457,7 +459,7 @@ a {
 
 .project-card__index {
   margin: 0 0 18px;
-  color: #777770;
+  color: #aaa9a3;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 10px;
   font-weight: 700;
@@ -480,7 +482,7 @@ a {
 
 .project-card__subtitle {
   margin: 8px 0 0;
-  color: var(--project-accent, #989891);
+  color: var(--project-accent, #b6b5af);
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 10px;
   font-weight: 700;
@@ -513,7 +515,7 @@ a {
   padding: 6px 10px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   background: rgba(255, 255, 255, 0.03);
-  color: #989891;
+  color: #b6b5af;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 9px;
   letter-spacing: 0.08em;
@@ -624,7 +626,7 @@ a {
 }
 
 .marquee-track span {
-  color: #6f6f69;
+  color: #aaa9a3;
   font-size: 11px;
   letter-spacing: 0.22em;
   white-space: nowrap;
@@ -682,7 +684,7 @@ a {
   gap: 20px;
   padding: 26px 6%;
   border-top: 1px solid var(--line);
-  color: #777770;
+  color: #aaa9a3;
   font-size: 9px;
   letter-spacing: 0.08em;
 }
@@ -786,7 +788,7 @@ a {
 
 .project-hero__subtitle {
   margin: 0;
-  color: var(--project-accent, #989891);
+  color: var(--project-accent, #b6b5af);
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.16em;
@@ -811,7 +813,7 @@ a {
 }
 
 .project-meta span {
-  color: #86867f;
+  color: #b6b5af;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 10px;
   font-weight: 700;
@@ -887,7 +889,7 @@ a {
 .detail-player figcaption,
 .detail-doc-preview figcaption {
   margin-top: 16px;
-  color: #989891;
+  color: #b6b5af;
   font-size: 10px;
   letter-spacing: 0.14em;
   text-align: center;
@@ -975,7 +977,7 @@ a {
 
 .gallery-item figcaption {
   padding: 12px 14px;
-  color: #989891;
+  color: #b6b5af;
   font-size: 9px;
   letter-spacing: 0.12em;
   border-top: 1px solid var(--line);
