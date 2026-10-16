@@ -342,7 +342,7 @@ export const VIBE_CODING: Work[] = [
     roles: ['产品策划', '用户研究', '信息架构'],
     tools: ['Figma', 'PRD', 'Prototype'],
     gallery: [],
-    file: { href: 'https://dulicharen.cn/huiyouweb/huiyoubiji/', type: 'PROTOTYPE' },
+    file: { href: '/huiyoubiji/', type: 'PROTOTYPE' },
   },
   {
     slug: 'filmspectrum',

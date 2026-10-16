@@ -1,0 +1,152 @@
+[
+  {
+    "id": "trip_gz_001",
+    "cityKey": "guangzhou",
+    "cityName": "广州",
+    "coords": {
+      "lng": 113.264435,
+      "lat": 23.129163
+    },
+    "startDate": "2025-10-15",
+    "endDate": "2025-10-17",
+    "duration": 3,
+    "weather": "晴转多云",
+    "essay": "秋天的广州像春天一般绽放着，在阳光灿烂时透出的绿意、在微风吹拂下摇曳的三角梅、穿着短袖穿梭在大街小巷的人群，让我萌生一种「过春天」的感觉，这并不是我想象的秋天，却是我每年都在真实度过的秋天，难以看见金黄色落叶的秋，肆意游窜在凉爽与炽热间的秋。\n走在北京路步行街上，骑楼下的光影斑驳，古老与现代在这里交织。早茶时分，茶楼里热气腾腾，虾饺、烧卖、肠粉一盘接一盘端上来，食客们操着地道的粤语闲聊家常。傍晚的珠江边，游船缓缓驶过，两岸灯火通明，广州塔在夜色中变换着绚丽的色彩。\n这座城市有着独特的包容性，你可以在陈家祠感受岭南建筑的精致，也可以在红专厂的涂鸦墙前驻足。街边的糖水铺永远飘着甜香，深夜的大排档依然人声鼎沸。广州的生活节奏不紧不慢，像这里的气候一样温润，让人不自觉地放慢脚步，去感受这座老城的烟火气息。",
+    "photos": [
+      {
+        "id": "gz_1",
+        "url": "/photos/guangzhou/0051896a7f8fc7e75f9d504fca2ace40.webp",
+        "width": 1282,
+        "height": 1710
+      },
+      {
+        "id": "gz_2",
+        "url": "/photos/guangzhou/17cdb81ae380c674ab27f3cf46288a16.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "id": "gz_3",
+        "url": "/photos/guangzhou/36f8231e7b393b964ba3b10d46229e15.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "gz_4",
+        "url": "/photos/guangzhou/4fccfec5726f200e3b53c2e23f611588.webp",
+        "width": 922,
+        "height": 1331
+      },
+      {
+        "id": "gz_5",
+        "url": "/photos/guangzhou/6c2c98c3fa779e88cfd7fd79ea997356.webp",
+        "width": 1080,
+        "height": 1440
+      }
+    ],
+    "coverPhoto": "photos/guangzhou/4fccfec5726f200e3b53c2e23f611588.webp",
+    "createdAt": 1722609600000
+  },
+  {
+    "id": "trip_sz_001",
+    "cityKey": "shenzhen",
+    "cityName": "深圳",
+    "coords": {
+      "lng": 114.057868,
+      "lat": 22.543099
+    },
+    "startDate": "2025-07-22",
+    "endDate": "2025-07-25",
+    "duration": 4,
+    "weather": "阴雨",
+    "essay": "我住的城市以「分钟」为单位变化。\n深圳入夏以后，我很少再看天气预报。我知道，在七月，未来十天都是阴雨天。天气说今日这片区域90%有雨，我随身携带一把伞，可到家了也没打开过它。但我还是习惯带着，大多时候不为挡雨而为了遮阳。后来，我养成了出门前看窗外的习惯，或走到阳台用十几秒去感知温度与湿度。\n出门五分钟，融化的体感比夏天的气息先一步进入身体。晴天、阴天、暴雨天可以在同一个下午里轮番上演，台风和雨水一同登陆在这个季节。这里的人类不需要格外多的阳光，人们只是沿着海岸线散散步、吹吹晚风就能晒干过往的潮湿。\n所有的故事都在这个高饱和度的蓝天下发生，写字楼上空浮着低矮绵密的白云，几个月的时间附近的工地已有商场的雏形。深圳总是这样，缓慢地、快速地，一切都在流动，人在推着向前的焦虑里，会生出一种奇异的自由。",
+    "photos": [
+      {
+        "id": "sz_1",
+        "url": "/photos/shenzhen/076af58255fdee5a6aa4ba6803ba5373.webp",
+        "width": 1080,
+        "height": 1620
+      },
+      {
+        "id": "sz_2",
+        "url": "/photos/shenzhen/3ac00048a6460e2c26622b315bedbde1.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "sz_3",
+        "url": "/photos/shenzhen/701368771fa2d77652b19b30ab50b432.webp",
+        "width": 1279,
+        "height": 1706
+      },
+      {
+        "id": "sz_4",
+        "url": "/photos/shenzhen/a48c104d951712f33d195ad5bd42e21b.webp",
+        "width": 1282,
+        "height": 1710
+      },
+      {
+        "id": "sz_5",
+        "url": "/photos/shenzhen/d8bc7ce4c385a081b945a2e19dab87a2.webp",
+        "width": 1280,
+        "height": 1280
+      }
+    ],
+    "coverPhoto": "photos/shenzhen/d8bc7ce4c385a081b945a2e19dab87a2.webp",
+    "createdAt": 1721664000000
+  },
+  {
+    "id": "trip_hk_001",
+    "cityKey": "hongkong",
+    "cityName": "香港",
+    "coords": {
+      "lng": 114.173355,
+      "lat": 22.320048
+    },
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-05",
+    "duration": 3,
+    "weather": "雾",
+    "essay": "该怎么去形容香港，我想了好久。\n是张爱玲笔下香港山上最有名的雾、蓝绿色的海和摧枯拉朽烧下山坡子的杜鹃花。是流光溢彩的霓虹灯，嵌满玻璃幕墙的高楼大厦堆砌出的玻璃之城。在这里，没有容貌焦虑，没有年龄焦虑，没有形式主义，人与人之间亲密又疏离，边界感和秩序感组成了香港的内核。在这里，我有不被掌控的自由和想去哪里就去哪里的随心所欲，没有什么是不可能的，像路牌所指，任何人都能抵达\"所有目的地\"，我好像也变得更爱自己。\n从中环走路去坐山顶缆车，蜿蜒的小路像一条巨蛇，游走在夜色中，偶尔突出一两颗璀璨的灯光，闪烁得像是宝石。在凌霄阁远眺时，我也会恍惚，我是怎么来到这里的?往前望是维港尖沙咀，向左看是坚尼地城西营盘，向右看是湾仔铜锣湾，我看不清我来时的路是我看的每一部TVB港剧和听过的每一首粤语歌带我来到这里的。",
+    "photos": [
+      {
+        "id": "hk_1",
+        "url": "/photos/hongkong/0ba7ea0987e88d0fee70d484092fd717.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "hk_2",
+        "url": "/photos/hongkong/1aa0bae704a1f68e3c3c669dca256081.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "hk_3",
+        "url": "/photos/hongkong/35bab69dad8f0d730e139225fcf3327c.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "hk_4",
+        "url": "/photos/hongkong/b66bc7142f9f550b8b5e53d64acade1f.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "hk_5",
+        "url": "/photos/hongkong/f071ee43d1db8422e1d85eae7df0efd0.webp",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "id": "hk_6",
+        "url": "/photos/hongkong/香港照片.webp",
+        "width": 1080,
+        "height": 1440
+      }
+    ],
+    "coverPhoto": "photos/hongkong/香港照片.webp",
+    "createdAt": 1730620800000
+  }
+]
